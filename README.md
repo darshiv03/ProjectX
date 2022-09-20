@@ -2,7 +2,7 @@
 
 ## Group Members: 
 [Darshan Shivakumar](https://www.linkedin.com/in/darshan-shivakumar-32289919b/)<br>
-[Aditya Sundar](https://github.com/adityasundar15)<br>
+[Aditya Sundar](https://www.linkedin.com/in/aditya-sundar-7b88a8228/)<br>
 [Debashish Sahoo](https://github.com/debashishsahoo)<br>
 
 ## Project Overview:
